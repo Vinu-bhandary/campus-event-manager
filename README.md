@@ -66,7 +66,7 @@ Go to http://localhost:5173
 
 
 ## Screenshots
-
+Both Result and AI Conversation
 [Here](https://github.com/Vinu-bhandary/campus-event-manager/tree/main/screenshots)
 
 
