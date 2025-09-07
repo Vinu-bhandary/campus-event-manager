@@ -1,0 +1,60 @@
+[
+  {
+    "model": "App.users",
+    "pk": 1,
+    "fields": {
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  },
+  {
+    "model": "App.users",
+    "pk": 2,
+    "fields": {
+      "name": "Alice Student",
+      "email": "alice@example.com",
+      "password": "alice123",
+      "role": "student"
+    }
+  },
+  {
+    "model": "App.users",
+    "pk": 3,
+    "fields": {
+      "name": "Bob Student",
+      "email": "bob@example.com",
+      "password": "bob123",
+      "role": "student"
+    }
+  },
+  {
+    "model": "App.event",
+    "pk": 1,
+    "fields": {
+      "title": "AI Workshop",
+      "description": "Hands-on with AI tools",
+      "type": "workshop",
+      "start_datetime": "2025-09-10T10:00:00Z",
+      "end_datetime": "2025-09-10T13:00:00Z",
+      "location": "Auditorium",
+      "capacity": 50,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "App.event",
+    "pk": 2,
+    "fields": {
+      "title": "Tech Fest 2025",
+      "description": "Annual college fest",
+      "type": "fest",
+      "start_datetime": "2025-09-15T09:00:00Z",
+      "end_datetime": "2025-09-15T18:00:00Z",
+      "location": "Main Ground",
+      "capacity": 200,
+      "created_by": 1
+    }
+  }
+]

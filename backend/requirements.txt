@@ -1,0 +1,7 @@
+Django
+django-ninja
+djangorestframework
+psycopg2-binary  
+python-decouple
+django-cors-headers
+django-filter
