@@ -72,10 +72,6 @@ Go to http://localhost:5173
 
 
 ## What I learned in this project
+While working on this project, I learned how to design my own database models and link them together for things like registrations, attendance, and feedback. I also got to use Django Ninja for the first time, which made creating APIs much easier.
 
-While building this project, I got hands-on practice with:
-
-- Designing custom database models (with relationships like Registration → Attendance/Feedback).
-- Using **Django Ninja** to quickly build APIs with automatic Swagger documentation.
-- Integrating a simple React frontend with Django backend.
-- Handling setup issues with Tailwind, npm, and Node.js versions.
+I practiced connecting a React frontend with the Django backend, and along the way I had to fix setup problems with Tailwind, npm, and Node.js. Solving those issues helped me understand the development environment better.
